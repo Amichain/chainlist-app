@@ -7,7 +7,7 @@ export default {
 			testnet: false,
 			noExplorer: false,
 			noWebsite: false,
-			orderBy: 'tvl',
+			orderBy: 'name',
 			order: 'asc'
 		})
 	}
